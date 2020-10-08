@@ -5,15 +5,17 @@
 ---
 
 <div align="center">
-    <img height="100" width="auto" src="./assets/C#.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
-    <img height="100" width="auto" src="./assets/php.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
-    <img height="100" width="auto" src="./assets/laravel.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
-    <img height="100" width="auto" src="./assets/javascript.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
-    <img height="100" width="auto" src="./assets/vue.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
-    <img height="100" width="auto" src="./assets/nodejs.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+    <img height="120" width="auto" src="./assets/languages/C#.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+    <img height="120" width="auto" src="./assets/languages/php.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+    <img height="120" width="auto" src="./assets/languages/laravel.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+    <img height="120" width="auto" src="./assets/languages/javascript.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+    <img height="120" width="auto" src="./assets/languages/vue.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+    <img height="120" width="auto" src="./assets/languages/nodejs.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
 </div>
+<br />
+<br />
 <p align='center'>
-    <a href="https://twitter.com/vestusola"><img height="30" src="./assets/twitter.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+    <a href="https://twitter.com/vestusola"><img height="50" src="./assets/twitter.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
 </p>
 
 ---
