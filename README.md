@@ -1,5 +1,5 @@
 <h3 align="justify">
-    Hi! I'm Festus Oyeleye, a Full-Stack developer enthusiast from Nigeria. Always learning while coding.
+    Hi! I'm Festus Oyeleye, a software developer from Nigeria. Always learning while coding.
 </h3>
 
 ---
