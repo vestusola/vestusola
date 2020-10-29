@@ -14,9 +14,6 @@
 </div>
 <br />
 <br />
-<p align='center'>
-    <a href="https://twitter.com/vestusola"><img height="50" src="./assets/twitter.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
-</p>
 
 ---
 
