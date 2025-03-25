@@ -32,6 +32,8 @@ I am a skilled fullstack software engineer with over 6 years of experience in La
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react&logoColor=4FC08D)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss&logoColor=4FC08D)
 
 ### 🛠️ **Tools**
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)
