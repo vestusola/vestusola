@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vestusola&color=blue)  
 **🌟 A Passionate Full-Stack Developer**
 
-I am a skilled fullstack software engineer with over 6 years of experience in Laravel, .NET, and Node.js, Vuejs, Reactjs (backend heavy). I deliver high-performance software solutions, solve complex technical problems, and create innovative software. I focus on collaborative problem-solving, delivering efficient, scalable, and reliable solutions that meet client needs and industry standards. My expertise spans:
+I am a skilled fullstack software engineer with over 7 years of experience in Laravel, .NET, and Node.js, Vuejs, Reactjs (backend heavy). I deliver high-performance software solutions, solve complex technical problems, and create innovative software. I focus on collaborative problem-solving, delivering efficient, scalable, and reliable solutions that meet client needs and industry standards. My expertise spans:
 
 - 🛠 **Backend:** C# .NET, Laravel, PHP, Node.js  
 - 🌐 **Frontend:** JavaScript, Vue.js, Reactjs, Tailwindcss, Bootstrap
