@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vestusola&color=blue)
 
-**🌟 Senior Full-Stack Software Engineer | Backend-Focused | Cloud & Scalable Systems**
+**🌟 Lead Full-Stack Software Engineer | Backend & Cloud Architecture | Scalable Systems**
 
-I am a **Full-Stack Software Engineer with over 7 years of experience** building reliable, scalable, and high-performance software solutions.
+I am a **Lead Full-Stack Software Engineer with over 9 years of experience** building reliable, scalable, and high-performance software solutions.
 
 My core expertise is in **backend engineering and system architecture**, working extensively with **C#/.NET, Laravel, Node.js, PostgreSQL, and cloud infrastructure**, while also building modern frontend applications with **React, Next.js, Vue.js, and Tailwind CSS**.
 
